@@ -1,13 +1,12 @@
-What is this project
+# What is this project
 
-Each time, it randomly selects a Chernobyl photo and prints it via the button. Subclass and useState were used.
+## Each time, it randomly selects a Chernobyl photo and prints it via the button. Subclass and useState were used.
 
 ![Ekran görüntüsü 2023-11-25 223616](https://github.com/InancYucel/chernobly-state/assets/48295407/1c9bf569-353a-47c0-8a2d-c22cc3787ba9)
 
 # Getting Started with Create React App
 
-This project was bootstra![Uploading Ekran görüntüsü 2023-11-25 223616.png…]()
-pped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
