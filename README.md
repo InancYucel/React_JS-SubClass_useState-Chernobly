@@ -1,4 +1,5 @@
 What is this project
+
 Each time, it randomly selects a Chernobyl photo and prints it via the button. Subclass and useState were used.
 
 ![Ekran görüntüsü 2023-11-25 223616](https://github.com/InancYucel/chernobly-state/assets/48295407/1c9bf569-353a-47c0-8a2d-c22cc3787ba9)
